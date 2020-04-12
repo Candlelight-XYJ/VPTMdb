@@ -1,2 +1,7 @@
 # VPTMdb
-A  viral post-translational modification database
+VPTMdb is a viral post-translational modification database
+
+# VPTMpre
+
+# Evolution
+
