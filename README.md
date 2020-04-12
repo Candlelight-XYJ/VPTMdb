@@ -1,7 +1,8 @@
 # VPTMdb
-VPTMdb is a viral post-translational modification database
+
 
 # VPTMpre
+A novel feature-based predictor
 
 # Evolution
 
