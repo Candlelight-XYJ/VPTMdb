@@ -6,7 +6,7 @@ A webserver
 A novel feature-based predictor
 
 
-# New insights
+# New biological insights
 
 #### Investigation of viral PTM motifs
 
