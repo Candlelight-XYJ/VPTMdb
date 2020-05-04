@@ -11,5 +11,5 @@ Post-translational modifications (PTMs) plays an important role in the regulatio
 ## Links
 
 + Website: http://vptmdb.com:8787/VPTMdb/
-+ Details:  [Bioinformatics analysis and collection of protein post-translational modification sites in human viruses](https://www.biorxiv.org/content/10.1101/2020.04.01.019562v2)
++ Citation:  [Bioinformatics analysis and collection of protein post-translational modification sites in human viruses](https://www.biorxiv.org/content/10.1101/2020.04.01.019562v2)
 + Mailing list: xiangyujia [AT] ioz.ac.cn
