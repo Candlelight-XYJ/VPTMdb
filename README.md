@@ -11,5 +11,5 @@ Post-translational modifications (PTMs) plays an important role in the regulatio
 ## Links
 
 + Website: http://vptmdb.com:8787/VPTMdb/
-+ Citation:  [VPTMdb: a viral posttranslational modification database](https://doi.org/10.1093/bib/bbaa251)
++ Citation:  [VPTMdb: a viral posttranslational modification database (Briefings in Bioinformatics)](https://doi.org/10.1093/bib/bbaa251)
 + Mailing list: **`xiangyujia [AT] ioz.ac.cn`**
