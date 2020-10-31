@@ -8,8 +8,10 @@
 Post-translational modifications (PTMs) plays an important role in the regulation of viral proteins; However, due to the limitation of data sets, there has been no detailed investigation of viral protein PTMs characteristics. In this manuscript, we collected experimentally verified viral protein post-translational modification sites and analysed viral PTMs data from a bioinformatics perspective. Besides, we constructed a novel feature-based machine learning model for predicting phosphorylation site. This is the first study to explore the roles of viral protein modification in virus infection using computational methods. The valuable viral protein PTM data resource will provide new insights into virus-host interaction.
 
 
+## Citation
+Yujia Xiang, Quan Zou, Lilin Zhao, VPTMdb: a viral posttranslational modification database, Briefings in Bioinformatics, , bbaa251, https://doi.org/10.1093/bib/bbaa251 
+
 ## Links
 
 + Website: http://vptmdb.com:8787/VPTMdb/
-+ Citation:  Yujia Xiang, Quan Zou, Lilin Zhao, VPTMdb: a viral posttranslational modification database, Briefings in Bioinformatics, , bbaa251, https://doi.org/10.1093/bib/bbaa251 
 + Mailing list: **`xiangyujia [AT] ioz.ac.cn`**
