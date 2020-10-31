@@ -1,7 +1,7 @@
 # VPTMdb
 
 
-**VPTMdb** is a comprehensive database for viral post-translational modification sites. We have collected 1240 PTM sites, which integrated 818 experimental-confirmed PTM sites in 43 viruses manually extracted from 150 publications and 422 PTMs extracted from UniProtKB/Swiss-Prot. **VPTMpre**, a novel feature-based predctor was integrated in VPTMdb for users to predict phosphorylation sites of interests.
+**VPTMdb** is a comprehensive database for **viral post-translational modification sites (PTMs)**. We have collected 1240 PTM sites, which integrated 818 experimental-confirmed PTM sites in 43 viruses manually extracted from 150 publications and 422 PTMs extracted from UniProtKB/Swiss-Prot. **VPTMpre**, a novel feature-based predctor was integrated in VPTMdb for users to predict phosphorylation sites of interests.
 
 
 ## Author summary
