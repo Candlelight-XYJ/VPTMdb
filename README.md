@@ -14,4 +14,4 @@ Yujia Xiang, Quan Zou, Lilin Zhao, VPTMdb: a viral posttranslational modificatio
 ## Links
 
 + Website: http://vptmdb.com:8787/VPTMdb/
-+ Mailing list: **`xiangyujia [AT] ioz.ac.cn`**
++ Mailing list: **`yujia.xiang [AT] outlook.com`**
